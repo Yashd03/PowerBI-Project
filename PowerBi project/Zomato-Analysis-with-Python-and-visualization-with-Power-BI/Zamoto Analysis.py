@@ -1,4 +1,4 @@
-# Zamoto Analysis
+# Zomato Analysis
 
 # Import Libaries
 import pandas as pd
