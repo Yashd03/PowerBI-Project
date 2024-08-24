@@ -26,7 +26,7 @@ The dataset, sourced from Kaggle and owned by Zomato, includes key information s
 ## Dashboard
 Developed an interactive Power BI dashboard to visualize key insights and findings from the analysis.
 
-![Dashboard Snapshot](https://github.com/ritikaga/Zomato-Analysis-with-Python-and-visualization-with-Power-BI/assets/66274316/697a2508-fb25-4f8d-829b-803371175bf7)
+![Dashboard Snapshot](https://github.com/Yashd03/PowerBI-Project/blob/main/PowerBi%20project/Zomato-Analysis-with-Python-and-visualization-with-Power-BI/Screenshot%202024-08-25%20002012.png)
 
 ## Conclusion
 - The dataset reveals restaurants with the highest cost for two, countries with the most Zomato-registered restaurants, and those offering online delivery. It also provides average aggregate ratings by country.
